@@ -16,8 +16,7 @@
   "bugs": {
     "url": "https://github.com/trs1323/tetris/issues"
   },
-
   "dependencies": {
-    "gh-pages": "^2.1.0"
+    "gh-pages": "^2.0.1"
   }
 }
