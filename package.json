@@ -1,0 +1,23 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "tetris clone",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trs1323/tetris.git"
+  },
+  "author": "Tanner Shilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trs1323/tetris/issues"
+  },
+  "homepage": "https://trs1323.github.io/tetris",
+  "dependencies": {
+    "gh-pages": "^2.1.0"
+  }
+}
