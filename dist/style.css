@@ -1,0 +1,16 @@
+body{
+    background-image: url('./img/background.jpg');
+    background-size: cover;
+    color: #fff;
+    font-family: sans-serif;
+    text-align:center;
+    font-family: 'Share Tech Mono', monospace;
+  }
+canvas {
+    border: solid .2em #fff;
+    height: 75%;
+  }
+
+#score{
+    font-size: 2em;
+}
